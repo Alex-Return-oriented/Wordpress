@@ -1,2 +1,2 @@
-# WordpressImg
-Wordpress图床
+# Wordpress
+Wordpress
